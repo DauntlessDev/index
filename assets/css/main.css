@@ -5,8 +5,9 @@
 html {
 	color: #CECAC3;
 }
-
-
+.scrollable-element {
+	scrollbar-color: dark;
+  }
 li{
 	list-style: none
 }
